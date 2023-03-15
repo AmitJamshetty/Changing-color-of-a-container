@@ -1,0 +1,8 @@
+#maindiv
+{
+    border: 2px solid black;
+    height: 325px;
+    width: 250px;
+    margin-top: 150px;
+    box-shadow: 10px 10px 10px;
+}
